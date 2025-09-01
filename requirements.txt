@@ -1,6 +1,6 @@
 numpy==1.26.4
 pandas==2.2.2
-scipy==1.13.0
+scipy==1.12.0
 scikit-learn==1.5.0
 matplotlib==3.8.4
 seaborn==0.13.2
@@ -13,3 +13,5 @@ nltk==3.9.1
 camel-tools==1.4.1
 emoji==1.4.1
 datasets==4.0.0
+gensim==4.3.2
+sp
